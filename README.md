@@ -1,4 +1,25 @@
-### Hi there 👋
+<h1>Hi, I'm Shruti! <br/><a href="https://github.com/Shruti-Tajne">Passionate about Digital Design and Verification | Actively Seeking Exciting Opportunities </a> <a href="https://www.linkedin.com/in/shruti-tajne/"></h1>
+
+<h2>👩‍💻 Academic Projects</h2>
+
+- <b>ESE 507 - Advanced Digital System Design and Generation</b>
+  - [Hardware Generation Tool](https://github.com/Shruti-Tajne)
+- <b>ESE 555 - Advanced VLSI Systems Design</b>
+  - [Design and Layout of an 8-bit Pipelined Adder](https://github.com/Shruti-Tajne)
+- <b>ESE 516 - Integrated Electronic Devices and Circuits</b>
+  - [Design of 2-Stage Amplifier](https://github.com/Shruti-Tajne)
+
+<h2>✍️ Digital Design Practice</h2>
+
+- [HDLbits solutions](https://github.com/Shruti-Tajne)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/shruti-tajne
+
 
 <!--
 **Shruti-Tajne/Shruti-Tajne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

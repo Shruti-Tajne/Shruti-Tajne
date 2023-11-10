@@ -3,7 +3,7 @@
 <h2>👩‍💻 Academic Projects</h2>
 
 - <b>ESE 507 - Advanced Digital System Design and Generation</b>
-  - [Hardware Generation Tool](https://github.com/Shruti-Tajne)
+  - [Hardware Generation Tool](https://github.com/Shruti-Tajne/HardwareGenerationTool)
 - <b>ESE 555 - Advanced VLSI Systems Design</b>
   - [Design and Layout of an 8-bit Pipelined Adder](https://github.com/Shruti-Tajne)
 - <b>ESE 516 - Integrated Electronic Devices and Circuits</b>

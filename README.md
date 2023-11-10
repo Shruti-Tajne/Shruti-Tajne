@@ -13,12 +13,33 @@
 
 - [HDLbits solutions](https://github.com/Shruti-Tajne)
 
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/shruti-tajne
+
+
+<br/><h2> My Go-To Learning Toolbox: </h2>
+
+- Websites:
+  - https://vlsiverify.com
+  - https://www.chipverify.com
+  - https://verificationguide.com
+  - https://www.asic-world.com
+
+- FPGAs
+  - https://www.fpga4fun.com/HDLtutorials.html
+  - https://projectf.io/about/
+
+- UVM
+  - https://colorlesscube.com/uvm-guide-for-beginners/
+  - https://www.doulos.com/knowhow/systemverilog/uvm/uvm-verification-primer/
+  - https://accellera.org/downloads/standards/uvm
+ 
+- 📺 YouTube Content Creators
+   - [FPGAsforBeginners](https://www.youtube.com/@FPGAsforBeginners)
+   - [BenEater](https://www.youtube.com/@BenEater/videos)
 
 
 <!--

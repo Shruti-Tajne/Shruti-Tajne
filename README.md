@@ -5,9 +5,9 @@
 - <b>ESE 507 - Advanced Digital System Design and Generation</b>
   - [Hardware Generation Tool](https://github.com/Shruti-Tajne/HardwareGenerationTool)
 - <b>ESE 555 - Advanced VLSI Systems Design</b>
-  - [Design and Layout of an 8-bit Pipelined Adder](https://github.com/Shruti-Tajne)
+  - Design and Layout of an 8-bit Pipelined Adder
 - <b>ESE 516 - Integrated Electronic Devices and Circuits</b>
-  - [Design of 2-Stage Amplifier](https://github.com/Shruti-Tajne)
+  - Design of 2-Stage Amplifier
 
 <h2>✍️ Digital Design Practice</h2>
 

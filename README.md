@@ -11,7 +11,7 @@
 
 <h2>✍️ Digital Design Practice</h2>
 
-- [HDLbits solutions](https://github.com/Shruti-Tajne)
+- [HDLbits solutions](https://github.com/Shruti-Tajne/HDLbits)
 
 <h2> 🤳 Connect with me:</h2>
 
